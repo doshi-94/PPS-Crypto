@@ -82,7 +82,7 @@ public class RegisterServlet extends HttpServlet{
 			     
 			     
 			          out.println("User Registered successfully!");
-			     
+			          
 			    
 
 			}
